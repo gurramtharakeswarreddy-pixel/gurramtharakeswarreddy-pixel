@@ -72,16 +72,3 @@ A full-scale, 51-page bus travel booking platform built entirely with vanilla HT
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gurramtharakeswarreddypixel&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurramtharakeswarreddypixel&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center"><i>Fast learner with cross-domain versatility across AI, cloud, and cybersecurity — always building, always shipping.</i></p>
